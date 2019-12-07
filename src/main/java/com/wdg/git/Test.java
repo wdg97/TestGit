@@ -7,6 +7,7 @@ public class Test {
         //测试
         System.out.println("第一次使用");
         System.out.println("第二次使用");
+        System.out.println("都三次使用");
         /*
          * lll
          */
