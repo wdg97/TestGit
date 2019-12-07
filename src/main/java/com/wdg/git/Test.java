@@ -10,6 +10,7 @@ public class Test {
         /*
          * lll
          */
+        System.out.println("你试试撒");
     }
 
 }
